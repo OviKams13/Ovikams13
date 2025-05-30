@@ -11,7 +11,6 @@ I Love Code !
 * ✉️  You can contact me at [ovidiukambembok13@gmail.com](mailto:ovidiukambembok13@gmail.com)
 * 🚀  I'm currently working on [NFT Marketplace](http://github.com/OviKams13/NFT-Marketplace)
 * 🧠  I'm learning Aws, Next JS
-* ⚡  I'm a FC Barcelona fan💙❤️
 
 ### Skills
 
