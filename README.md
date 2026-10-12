@@ -7,7 +7,6 @@ Software Engineer
 
 
 * 🌍  I'm based in Northen Cyprus
-* 🖥️  See my portfolio at [Mywebsite](http://scintillating-sunshine-df5c78.netlify.app/)
 * ✉️  You can contact me at [ovidiukambembok13@gmail.com](mailto:ovidiukambembok13@gmail.com)
 * 🚀  I'm currently working on [NFT Marketplace](http://github.com/OviKams13/NFT-Marketplace)
 * 🧠  I'm learning Aws, Next JS
